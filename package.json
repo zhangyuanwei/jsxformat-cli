@@ -1,0 +1,30 @@
+{
+  "name": "jsxformat-cli",
+  "version": "0.0.1",
+  "description": "jsxformat cli",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin":{
+    "jsxformat":"./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyuanwei/jsxformat-cli"
+  },
+  "keywords": [
+    "jsx",
+    "format"
+  ],
+  "author": "zhangyuanwei1988@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangyuanwei/jsxformat-cli/issues"
+  },
+  "homepage": "https://github.com/zhangyuanwei/jsxformat-cli",
+  "dependencies": {
+    "jsxformat": "0.0.8"
+  }
+}
